@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LicenseCreationTool/1.0.0": {
+        "runtime": {
+          "LicenseCreationTool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LicenseCreationTool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

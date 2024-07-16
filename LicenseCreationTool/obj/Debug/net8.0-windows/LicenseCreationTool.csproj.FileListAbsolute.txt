@@ -1,0 +1,16 @@
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\bin\Debug\net8.0-windows\LicenseCreationTool.exe
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\bin\Debug\net8.0-windows\LicenseCreationTool.deps.json
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\bin\Debug\net8.0-windows\LicenseCreationTool.runtimeconfig.json
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\bin\Debug\net8.0-windows\LicenseCreationTool.dll
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\bin\Debug\net8.0-windows\LicenseCreationTool.pdb
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\LicenseCreationTool.csproj.GenerateResource.cache
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\LicenseCreationTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\LicenseCreationTool.AssemblyInfoInputs.cache
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\LicenseCreationTool.AssemblyInfo.cs
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\LicenseCreationTool.csproj.CoreCompileInputs.cache
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\LicenseCreationTool.dll
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\refint\LicenseCreationTool.dll
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\LicenseCreationTool.pdb
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\LicenseCreationTool.genruntimeconfig.cache
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\ref\LicenseCreationTool.dll
+C:\Users\gokandag\Desktop\InternLicenseProject\LicenseCreationTool\obj\Debug\net8.0-windows\LicenseCreationTool.CreateForm.resources
